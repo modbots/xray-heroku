@@ -1,6 +1,6 @@
 [![စတင်ရန်](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yeahwu/xray-heroku)
 
-Click the icon above to deploy.
+အထက်ပါ Heroku Button အားနှိပ်ပါ
 
 Optional protocols: vmess or vless.
 
